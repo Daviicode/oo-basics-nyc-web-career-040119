@@ -11,7 +11,7 @@ class Shoe
  
   
   def condition 
-    puts
+    puts "shoe has been repaired"
   end
 
 
