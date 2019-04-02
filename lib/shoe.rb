@@ -11,7 +11,7 @@ class Shoe
  
   
   def condition 
-    puts "shoe has been repaired"
+    @condition = condition
   end
 
 
